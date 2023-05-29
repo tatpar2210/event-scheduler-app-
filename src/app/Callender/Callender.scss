@@ -1,0 +1,47 @@
+.calender-container {
+  margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+
+  .calender-navigation {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px 0 20px;
+    .view-btn {
+      display: flex;
+      gap: 20px;
+  
+      button {
+        border-radius: 5px;
+        background: transparent;
+        padding: 10px 12px;
+        outline: none;
+        border: 0;
+      }
+  
+      .active {
+        background: #E5E8FF;
+      }
+    }
+
+    .search-rectangle {
+      display: flex;
+      gap: 10px;
+      width: max-content;
+      background: #FFFFFF;
+      opacity: 0.4;
+      box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.25);
+      border-radius: 100px;
+      padding: 5px;
+  
+      input {
+        background: transparent;
+        outline: none;
+        border: 0;
+      }
+    }
+    
+  }
+}
