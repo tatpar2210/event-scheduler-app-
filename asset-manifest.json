@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/event-scheduler-app-/static/css/main.f5e29de1.css",
+    "main.js": "/event-scheduler-app-/static/js/main.34f7964a.js",
+    "static/js/787.0ded7fd9.chunk.js": "/event-scheduler-app-/static/js/787.0ded7fd9.chunk.js",
+    "static/media/avatar.svg": "/event-scheduler-app-/static/media/avatar.6398323ed7f4d8e743b8565374edbd2d.svg",
+    "static/media/planning.svg": "/event-scheduler-app-/static/media/planning.d78715451dfbacb35f3b3859870de050.svg",
+    "static/media/search.svg": "/event-scheduler-app-/static/media/search.afc3c528b0ab951190c510a4844d7bba.svg",
+    "static/media/documentation.svg": "/event-scheduler-app-/static/media/documentation.925082f88747fe75699fca236be5c961.svg",
+    "static/media/house-keeping.svg": "/event-scheduler-app-/static/media/house-keeping.08354cadd7ebd664d10eca0efac713f8.svg",
+    "static/media/notification-bell.svg": "/event-scheduler-app-/static/media/notification-bell.0dbaeac8144998e564ea33a5d760d0c7.svg",
+    "static/media/search-light.svg": "/event-scheduler-app-/static/media/search-light.352950a8ea804553b094159fbb164454.svg",
+    "index.html": "/event-scheduler-app-/index.html",
+    "main.f5e29de1.css.map": "/event-scheduler-app-/static/css/main.f5e29de1.css.map",
+    "main.34f7964a.js.map": "/event-scheduler-app-/static/js/main.34f7964a.js.map",
+    "787.0ded7fd9.chunk.js.map": "/event-scheduler-app-/static/js/787.0ded7fd9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5e29de1.css",
+    "static/js/main.34f7964a.js"
+  ]
+}
